@@ -64,7 +64,7 @@ Simple proportional logic with optional moving average smoothing and step size t
 
 | File | Description |
 |------|-------------|
-| `Automatic Volumn Control Amplifier.ipynb` | Final control code with feedback loop |
+| `Automatic Volume Control Amplifier.ipynb` | Final control code with feedback loop |
 | `Report.pdf` | Full 40+ page technical report with lab breakdowns, analysis, and conclusions |
 
 ---
